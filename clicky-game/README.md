@@ -1,3 +1,20 @@
+Paw Patrol Clicky Game
+
+This game will test your memory as you click on the Paw Patrol pups. Try to get a high score or guess all 12 correctly. 
+
+This game uses Node.js, Express, and React to bring this game to you. 
+
+Thanks for playing!
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
