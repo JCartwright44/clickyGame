@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "name": "Apollo",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/4/45/PAW_Patrol_Apollo_the_Super-Pup.png"
+    },
+    {
+        "id": 2,
+        "name": "Chase",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/b/b9/Chase_Profile2.png"
+    },
+    {
+        "id": 3,
+        "name": "Chickaletta",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/0/0b/Chickaletta-1.png"
+    },
+    {
+        "id": 4,
+        "name": "Everest",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/e/ee/Everest_Profile2.png"
+    },
+    {
+        "id": 5,
+        "name": "Marshall",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/4/4a/PAW_Patrol_Marshall_Profile.png"
+    },
+    {
+        "id": 6,
+        "name": "Robo-Dog",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/f/f0/Rodo-Puppy.png"
+    },
+    {
+        "id": 7,
+        "name": "Rocky",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/c/c7/Rocky_Profile2.png"
+    },
+    {
+        "id": 8,
+        "name": "Rubble",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/4/42/Rubble_Profile2.png"
+    },
+    {
+        "id": 9,
+        "name": "Skye",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/3/34/Skye_Profile2.png"
+    },
+    {
+        "id": 10,
+        "name": "Sweetie",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/4/44/Quest_for_the_Crown_12.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tracker",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/6/67/PAW_Patrol_Tracker_Profile.png/"
+    },
+    {
+        "id": 12,
+        "name": "Zuma",
+        "image": "https://vignette.wikia.nocookie.net/paw-patrol/images/9/9b/Zuma_Profile2.png"
+    }
+]

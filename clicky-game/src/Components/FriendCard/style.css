@@ -1,0 +1,10 @@
+.img {
+    height: 100px;
+    width: auto;
+}
+
+.card {
+    height: auto;
+    width: 200px;
+    float: left;
+}
