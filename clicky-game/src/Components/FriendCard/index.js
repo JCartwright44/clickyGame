@@ -8,11 +8,11 @@ function FriendCard(props) {
         <img className="img" alt={props.name} src={props.image} />
       </div>
       <div className="content">
-        <ul>
-          <li>
+        {/* <ul>
+          <li> */}
             <strong> {props.name}</strong>
-          </li>
-        </ul>
+          {/* </li>
+        </ul> */}
       </div>
     </div>
   );

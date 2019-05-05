@@ -16,3 +16,20 @@
 .navbar {
     background-color: #5adbfb
 }
+
+#title {
+    font-weight: bold;
+    margin-right: 100px;
+}
+
+#score {
+    font-weight: bold
+}
+
+#highscore {
+    font-weight: bold
+}
+
+#navbarNavAltMarkup2 {
+    width: 10%
+}

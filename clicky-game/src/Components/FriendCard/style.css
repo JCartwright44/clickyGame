@@ -1,10 +1,16 @@
 .img {
     height: 100px;
     width: auto;
+    justify-content: center;
 }
 
 .card {
     height: auto;
     width: 200px;
     float: left;
+    background-color: #ef5350
+}
+
+.content {
+    text-align: center;
 }
